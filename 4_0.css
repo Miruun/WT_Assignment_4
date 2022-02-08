@@ -1,0 +1,34 @@
+body {
+    background-color: #fcdfe5;
+    color: #111;
+    margin: .5em 3em;
+}
+
+h1 {
+    color: #42025c;
+    
+}
+
+h2 {
+    color: #1f1e1e;
+    font-size: 1.2em;
+}
+
+figure {
+    float: right;
+
+}
+
+img {
+    width: 150px; 
+    height: auto;
+    text-align: center;
+  }
+
+  
+figcaption {
+    color: rgb(53, 15, 114);
+    font: italic smaller sans-serif;
+    padding: 3px;
+    text-align: center;
+}
